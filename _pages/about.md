@@ -22,8 +22,8 @@ My research interest includes LLM and computer vision. My current tasks are to o
 
 # 🎖 Honors and Awards
 - *2025.11* First-class comprehensive scholarship at Northeastern University of China. 
-- *2025.03* Third Prize, *15*th China College Student Market Research and Analysis Competition.
+- *2025.03* Third Prize, 15th China College Student Market Research and Analysis Competition.
 
 # 📖 Educations
-- *2022.09 - 2023.06 (now)*, Student of Mathematics, Northeastern University, China; 
+- *2022.09 - 2023.06*, Student of Mathematics, Northeastern University, China; 
 - *2023.09 - 2026.02 (now)*, Bachelor of Science in Data Science and Big Data Technology, Northeastern University, China; 
