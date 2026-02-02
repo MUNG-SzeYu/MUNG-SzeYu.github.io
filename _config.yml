@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "MUNG SzeYu"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "A Chinese student in Computer Science at Northeastern University"
+  bio              : "A Chinese student in Data Science at Northeastern University"
   location         : "Qinhuangdao, China"
   employer         : "Northeastern University, China"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "M1248448348@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
